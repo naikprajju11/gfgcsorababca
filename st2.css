@@ -2,14 +2,7 @@
     margin:0;
     padding:0;
 }
-.cont{
-    width:100%;
-    height:410vh;
-   
-    background-size: cover;
-    background-position: center;
-    position:absolute;
-}
+
 
 .cont h1{
     font-size:70px;
