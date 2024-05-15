@@ -1,0 +1,101 @@
+*{
+    margin:0;
+    padding:0;
+}
+.cont{
+    width:100%;
+    height:410vh;
+    background-image:linear-gradient(rgba(0,0,0,0.35),rgba(0,0,0,0.35)),url(ww.jpg);
+    background-size: cover;
+    background-position: center;
+    position:absolute;
+}
+
+.cont h1{
+    font-size:70px;
+    margin-top:5px;
+    color:beige;
+}
+.btn2{
+    text-transform: uppercase;
+    background-color: #3498db;
+    color: white;
+    padding: 30px 10px;
+    margin-top: 25px;
+margin-left: 170px;
+    width:1002px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.cont2{
+    width:100%;
+    height:260vh;
+    background-image:linear-gradient(rgba(0,0,0,0.35),rgba(0,0,0,0.35)),url(ww.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.cont2 h1{
+    font-size:70px;
+    margin-top:5px;
+    color:beige;
+}
+.cont3{
+    width:100%;
+    height:330vh;
+    background-image:linear-gradient(rgba(0,0,0,0.35),rgba(0,0,0,0.35)),url(ww.jpg);
+    background-size: cover;
+    background-position: center;
+    position:absolute;
+}
+
+.cont3 h1{
+    font-size:70px;
+    margin-top:5px;
+    color:beige;
+}
+.cont3{
+    width:100%;
+    height:295vh;
+    background-image:linear-gradient(rgba(0,0,0,0.35),rgba(0,0,0,0.35)),url(ww.jpg);
+    background-size: cover;
+    background-position: center;
+    position:absolute;
+}
+
+.cont3 h1{
+    font-size:70px;
+    margin-top:5px;
+    color:beige;
+}
+.cont03{
+    width:100%;
+    height:325vh;
+    background-image:linear-gradient(rgba(0,0,0,0.35),rgba(0,0,0,0.35)),url(ww.jpg);
+    background-size: cover;
+    background-position: center;
+    position:absolute;
+}
+
+.cont03 h1{
+    font-size:70px;
+    margin-top:5px;
+    color:beige;
+}
+
+.cont12{
+    width:100%;
+    height:325vh;
+    background-image:linear-gradient(rgba(0,0,0,0.35),rgba(0,0,0,0.35)),url(ww.jpg);
+    background-size: cover;
+    background-position: center;
+    position:absolute;
+}
+
+.cont12 h1{
+    font-size:70px;
+    margin-top:5px;
+    color:beige;
+}
