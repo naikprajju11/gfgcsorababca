@@ -4,7 +4,7 @@
 }
 .cont{
     width:100%;
-    height:410vh;
+    height:420vh;
     background-image:linear-gradient(rgba(0,0,0,0.35),rgba(0,0,0,0.35)),url(ww.jpg);
     background-size: cover;
     background-position: center;
@@ -31,7 +31,7 @@ margin-left: 170px;
 
 .cont2{
     width:100%;
-    height:260vh;
+    height:270vh;
     background-image:linear-gradient(rgba(0,0,0,0.35),rgba(0,0,0,0.35)),url(ww.jpg);
     background-size: cover;
     background-position: center;
@@ -87,7 +87,7 @@ margin-left: 170px;
 
 .cont12{
     width:100%;
-    height:325vh;
+    height:315vh;
     background-image:linear-gradient(rgba(0,0,0,0.35),rgba(0,0,0,0.35)),url(ww.jpg);
     background-size: cover;
     background-position: center;
