@@ -51,3 +51,15 @@
   
   .dropdown:hover .dropbtn {background-color: #2980b9;}
 
+
+  @media screen and (max-width:600px)
+{
+  .img{
+   
+    width:470%;
+    height:300vh;
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(bc.jpg);
+  }
+
+}
+
