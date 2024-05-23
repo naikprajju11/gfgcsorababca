@@ -100,7 +100,7 @@ margin-left: 170px;
     color:beige;
 }
 
-@media screen and (max-width:300px)
+@media screen and (max-width:600px)
 {
     .cont h1{
         font-size:30px;
@@ -109,7 +109,7 @@ margin-left: 170px;
     }
     
     .cont{
-        width:400%;
+        width:600%;
         height:510vh;
         background-image:linear-gradient(rgba(0,0,0,0.35),rgba(0,0,0,0.35)),url(ww.jpg);
        
